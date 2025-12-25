@@ -58,4 +58,4 @@ This is a MERN stack application (MongoDB, Express, React, Node.js) built with a
 - **Styling**: Vanilla CSS with modern variables and glassmorphism.
 
 ---
-Built with ❤️ by Antigravity
+
